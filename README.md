@@ -1,5 +1,6 @@
 Este proyecto es desarrollado como parte del curso Estructura de Datos y Algoritmos 1 (EDA 1), durante el periodo académico 2025-1 en la Universidad de Lima.
 El sistema tiene como objetivo gestionar los trámites documentarios de una oficina administrativa de la ULima, utilizando tipos abstractos de datos como Listas, Pilas, Colas y Árboles (opcional), y proporciona una Interfaz Gráfica de Usuario (GUI) para facilitar la operación del sistema.
+
 Objetivos
 
     Desarrollar un sistema de gestión de trámites aplicando estructuras de datos estudiadas en el curso.
