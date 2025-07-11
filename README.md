@@ -41,3 +41,4 @@ Integrantes
 
     Oscar Alfredo Meza Payano
     Jose Antonio Marquez Mallqui
+    Angelo Matius Diaz De la Flor
